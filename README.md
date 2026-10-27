@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @KingRuona
-- 👀 I’m interested in Making Games and Watching Anime
-- 🌱 I’m currently learning C# and GDscript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chat me on instagram: https://www.instagram.com/king_ruona?igsh=dWtudTZ5M2w3aG8y%3Fsub_confirmation%3D1
-- 😄 Pronouns: He/ Him /His
-- ⚡ Fun fact: I'm an upcoming YouTuber
+# 👋 Hi, I'm King Ruona!
 
-<!---
-KingRuona/KingRuona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 Aspiring Game Developer | 💻 Computer Science Graduate | 🎬 Gaming Content Creator
+
+I'm a Computer Science graduate interested in game development, software engineering, and creating interactive experiences. I enjoy exploring new technologies, building projects, and learning how games work behind the scenes.
+
+### 🚀 What I'm Learning
+- 🎮 C# and Unity
+- 🕹️ GDScript and Godot
+- 💻 Software development and programming
+
+### 🛠️ Interests
+- Game development and game mechanics
+- Building software projects
+- Gaming, anime, and digital content creation
+
+### 🤝 Collaboration
+I'm open to collaborating on beginner-friendly game development projects, indie games, and other interesting software projects.
+
+### 📫 Connect With Me
+- 📸 Instagram: [@king_ruona](https://www.instagram.com/king_ruona/)
+- 🎮 Gaming Content: King Ruona
+
+### ⚡ Fun Fact
+When I'm not coding or exploring game development, I'm probably gaming, watching anime, or creating content.
+
+---
+
+*Always learning. Always building. One project at a time.*
