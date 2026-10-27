@@ -18,8 +18,8 @@ I'm a Computer Science graduate interested in game development, software enginee
 I'm open to collaborating on beginner-friendly game development projects, indie games, and other interesting software projects.
 
 ### 📫 Connect With Me
-- 📸 Instagram: [@king_ruona](https://www.instagram.com/king_ruona/)
-- 🎮 Gaming Content: King Ruona
+- 📸 Instagram: [@king__ruona](https://www.instagram.com/king__ruona/)
+- 🎮 Gaming Content: Ruonawastaken on YouTube/Tiktok
 
 ### ⚡ Fun Fact
 When I'm not coding or exploring game development, I'm probably gaming, watching anime, or creating content.
